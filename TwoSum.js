@@ -1,4 +1,4 @@
-//Two Sum
+//Two Sum just an example file to lern to git
 
 function twoSum(numbers, target) {
   for (let i = 0; i < numbers.length - 1; i++) {
